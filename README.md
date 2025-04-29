@@ -1,4 +1,4 @@
-<!---
+f<!---
 simmi05-hub/simmi05-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -42,5 +42,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 💡 Inspiration
+> "An investment in knowledge pays the best interest." – Benjamin Franklin
+
+
 > "The only way to do great work is to love what you do." – Steve Jobs
 
