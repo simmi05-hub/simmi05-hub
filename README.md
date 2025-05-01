@@ -1,8 +1,3 @@
-f<!---
-simmi05-hub/simmi05-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # 👋 Hi, I’m Simran Kanchan (@simmi05-hub)
 
 - 👀 I’m interested in mastering **C++** and **Data Structures & Algorithms**
@@ -18,13 +13,6 @@ You can click the Preview link to take a look at your changes.
 - Mastering **C++** with a focus on **Object-Oriented Programming (OOP)**
 - Solving **Data Structures & Algorithms (DSA)** problems daily
 - Preparing for **NIMCET** exam (focusing on **Mathematics** and **Computer Science** topics)
-
----
-
-### 🎯 My Learning Goals
-- Complete 100 DSA problems in C++ by the end of the month
-- Build my first **C++ project** involving **Graph Algorithms** or **Searching Algorithms**
-- Get **NIMCET** rank within top 200
 
 ---
 
