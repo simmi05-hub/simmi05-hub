@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Simran Kanchan (@simmi05-hub)
 
 - 👀 I’m interested in mastering **C++** and **Data Structures & Algorithms**
-- 🌱 I’m currently learning **C++ with DSA** and preparing for the **NIMCET** exam
-- 💞️ I’m looking to collaborate on **DSA practice**, **competitive programming**, and **NIMCET study resources**
+- 🌱 I’m currently learning **C++ with DSA**
+- 💞️ I’m looking to collaborate on **DSA practice**, **competitive programming**
 - 📫 How to reach me: [email: simrankanchan23@gmail.com or LinkedIn link: https://www.linkedin.com/in/simran-kanchan-167504293/]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy turning tricky problems into simple, logical steps!
@@ -12,8 +12,6 @@
 ### 📚 Current Learning
 - Mastering **C++** with a focus on **Object-Oriented Programming (OOP)**
 - Solving **Data Structures & Algorithms (DSA)** problems daily
-- Preparing for **NIMCET** exam (focusing on **Mathematics** and **Computer Science** topics)
-
 ---
 
 ### 🛠️ Skills & Technologies
