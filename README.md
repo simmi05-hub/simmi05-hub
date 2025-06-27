@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Simran Kanchan (@simmi05-hub)
 
-- 👀 I’m interested in mastering **C++** and **Data Structures & Algorithms**
 - 🌱 I’m currently learning **C++ with DSA**
 - 💞️ I’m looking to collaborate on **DSA practice**, **competitive programming**
 - 📫 How to reach me: [email: simrankanchan23@gmail.com or LinkedIn link: https://www.linkedin.com/in/simran-kanchan-167504293/]
@@ -11,8 +10,6 @@
 
 ### 📚 Current Learning
 - Mastering **C++** with a focus on **Object-Oriented Programming (OOP)**
-- Solving **Data Structures & Algorithms (DSA)** problems daily
----
 
 ### 🛠️ Skills & Technologies
 - **Languages:** C++
